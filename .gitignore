@@ -31,6 +31,6 @@ go.work.sum
 # .idea/
 # .vscode/
 
-#auth.key file so noboy accidentally uploads their bot keys
+#auth.key file so nobody accidentally uploads their bot keys
 bot.key
 imgchest.key
